@@ -1,2 +1,8 @@
-# shifa_food
-Restaurant website using php and mysql
+# Shifa_food
+Restaurant website using php and mysql<br/>
+Live demo: http://ayisha-product.infinityfreeapp.com/   <br/>
+source code:   <br/>
+Languages: HTML , CSS , PHP , MYSQL <br/>
+Tools and websited: Infinityfree.net , PHPmyadmin , MYSQLDatabase , Github , VScode, Browser <br/>
+Autor: Ayishabanu <br/>
+Special Thanks to Vijay Thappa (Youtuber)
